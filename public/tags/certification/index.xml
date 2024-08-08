@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Certification on Kevin Artunduaga</title>
+    <link>http://localhost:1313/tags/certification/</link>
+    <description>Recent content in Certification on Kevin Artunduaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mas sobre mi</title>
+      <link>http://localhost:1313/blog/biografia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/biografia/</guid>
+      <description>Soy un chico apasionado por seguir aprendiendo cosas relacionadas a mi carrera, espero que si estas interesado en ello me ayudes a hacer un aporte a mi vida laboral o estudiantil.</description>
+    </item>
+    
+  </channel>
+</rss>
